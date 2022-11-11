@@ -1,0 +1,34 @@
+{
+    "result": [
+        {
+            "id": 1,
+            "question": "A que país pertenece la ciudad Mariupol?",
+            "option_one": "Francia",
+            "option_two": "Ucrania",
+            "option_three": "Peru",
+            "option_four": "Cuba",
+            "correct_option": 2
+           
+        },
+        {
+            "id": 2,
+            "question": "Que red social compro Elon Musk?",
+            "option_one": "Twitter",
+            "option_two": "Facebook",
+            "option_three": "Omegle",
+            "option_four": "Vk",
+            "correct_option": 1
+           
+        },
+         {
+            "id": 3,
+            "question": "Con que país Andres Manuel López Obrador quiere suspender relaciones?",
+            "option_one": "Cuba",
+            "option_two": "Francia",
+            "option_three": "EE.UU",
+            "option_four": "España",
+            "correct_option": 4
+           
+        }
+    ]
+}
